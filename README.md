@@ -1,2 +1,2 @@
 # textarea
-simple textarea for github pages
+simple and minimal textarea for github pages
